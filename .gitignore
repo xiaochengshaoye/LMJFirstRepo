@@ -1,0 +1,7 @@
+shiyicia.xcodeproj/xcuserdata/
+shiyicia.xcworkspace/
+Pods/
+*.swp
+Podfile.lock
+.DS_Store
+shiyicia.xcodeproj/project.xcworkspace/xcuserdata/
